@@ -48,6 +48,12 @@
 .clr {
   color: #d66d75;
 }
+.clr:hover{
+  background-color: rgb(255, 153, 168);
+}
+.clr:active{
+  background-color: rgb(252, 80, 80);
+}
 
 .exp {
   color: #06beb6;
